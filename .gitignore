@@ -1,0 +1,16 @@
+# Ignore all.
+*
+
+# Begin allow list.
+!.gitignore
+!setup.org
+
+# Bash.
+!.bashrc
+!.profile
+
+# Dooooom!
+!.doom.d/
+!.doom.d/config.el
+!.doom.d/init.el
+!.doom.d/packages.el

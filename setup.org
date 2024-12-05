@@ -1,0 +1,15 @@
+#+title: Environment Setup
+
+Emacs and Doom are built and installed from source.
+
+* Packages
+
+apt
+- texlive
+- texlive-latex-extra
+- dvipng
+- dvisvgm
+- pandoc
+- pipx
+  - pyright
+- nodejs
