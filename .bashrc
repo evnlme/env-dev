@@ -119,3 +119,11 @@ fi
 export BROWSER=wslview
 export PATH=$PATH:$HOME/.local/bin/
 export TERM=xterm-256color
+
+if ! pgrep -u "$USER" ssh-agent > /dev/null; then
+    ssh-agent -s > $HOME/.ssh/agentenv
+    . $HOME/.ssh/agentenv
+    ssh-add $HOME/.ssh/id_ed25519
+elif [ -f $HOME/.ssh/agentenv ]; then
+    . $HOME/.ssh/agentenv
+fi
