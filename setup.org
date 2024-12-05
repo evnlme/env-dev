@@ -13,3 +13,20 @@ apt
 - pipx
   - pyright
 - nodejs
+- git
+- openssh-client
+
+* Git
+
+#+BEGIN_SRC bash
+git config --global user.name "Evan Lee"
+git config --global user.email "112362737+evnlme@users.noreply.github.com"
+#+END_SRC
+
+** Set Up SSH
+
+#+BEGIN_SRC bash
+ssh-keygen -t ed25519 -C "your_email@example.com"
+#+END_SRC
+
+Register public key to remote account.
