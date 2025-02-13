@@ -14,3 +14,7 @@
 !.doom.d/config.el
 !.doom.d/init.el
 !.doom.d/packages.el
+
+# Notes
+!notes/
+!notes/**
