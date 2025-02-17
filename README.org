@@ -11,6 +11,8 @@ sudo apt install -y \
   autoconf \
   dvipng \
   dvisvgm \
+  fonts-noto-cjk \
+  fonts-noto-cjk-extra \
   gcc-13 \
   git \
   gnutls-bin \
