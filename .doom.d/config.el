@@ -107,5 +107,8 @@
                  :base-extension "org"
                  :publishing-directory "~/www/"
                  :publishing-function org-html-publish-to-html
+                 :auto-sitemap t
+                 :sitemap-filename "index.org"
+                 :sitemap-title "evnl.me"
                  :author "Evan Lee")
                 ("website" :components ("org"))))

@@ -1,0 +1,7 @@
+#+title: 404
+
+#+begin_quote
+Welcome to the imagination zone!
+#+end_quote
+
+404 - Page not found.

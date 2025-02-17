@@ -1,0 +1,135 @@
+#+title: Lists
+
+List of stuff I have or had an interest in. (Interest does not mean endorsement.)
+
+* Informative writing
+
+** Textbooks
+
+- /Principles of Systems Science/ by George E. Mobus, Micheal C. Kalton.
+- /Systems Science: Theory, Analysis, Modeling, and Design/ by George E. Mobus.
+- /Order without Design/ by Alain Bertaud.
+- /Energy and the Wealth of Nations/ by Carles A.S. Hall, Kent Klitgaard.
+- /Philosophy and Model Theory/ by Tim Button, Sean Walsh.
+
+** Books
+
+- /The Upside of Irrationality: The Unexpected Benefits of Defying Logic at Work and at Home/ by Dan Ariely.
+- /Thinking, Fast and Slow/ by Daniel Kahneman.
+- /Gödel, Escher, Bach/ by Douglas Hofstadter.
+- /Gut Check/ by Steven R. Gundry. If disease starts in the gut, we should take steps to ensure our microbiomes are healthy.
+- /The Ape that Understood the Universe: How the Mind and Culture Evolve/ by Steve Stewart-Williams.
+- /Rapport: The Four Ways to Read People/ by Laurence Alison and Emily Alison. The book plainly states the elements of rapport that other similar books may allude to.
+
+* Stories
+
+** Books
+
+- 〈物語〉シリーズ by 西尾維新\\
+  〈Monogatari〉 series by Nisio Isin. Interesting anime adaption.
+- 陰の実力者になりたくて！ by 東西, 逢沢大介\\
+  /The Eminence in Shadow/ by Touzai, Aizawa Daisuke
+
+** Graphic novels
+
+- NARUTO―ナルト― by 岸本斉史\\
+  /Naruto/ by Kishimoto Masashi. Childhood anime. Anime adaption has good fight scenes and sound tracks. The arcs that resonated with me the most are "Chuunin Exams: Gaara vs Rock Lee" and "Kakashi Gaiden".
+- かぐや様は告らせたい～天才たちの恋愛頭脳戦～ by 赤坂アカ\\
+  /Kaguya-sama: Love Is War/ by Akasaka Aka. Good anime adaptation.
+- モブサイコ 100 by ONE\\
+  /Mob Psycho 100/ by ONE. Good anime adaption.
+- 葬送のフリーレン by 山田鐘人, アベツカサ\\
+  /Frieren: Beyond Journey's End/ by Yamada Kanehito, Abe Tsukasa. Fantastic writing. Good anime adaption.
+- 魔入りました! 入間くん by 西修\\
+  /Welcome to Demon School! Iruma-kun/ by Nishi Osamu. A story about a cinnamon roll growing up among demons.
+- 악역의 엔딩은 죽음뿐 by 권겨을, 수월\\
+  /Villains Are Destined to Die/ by Gwon Gyeoeul, SUOL.
+
+* Animation
+
+- /SpongeBob SquarePants/.
+- /Avatar: The Last Airbender/.
+- 新世界より (/From the New World/).
+- 日常 (/Nichijou - My Ordinary Life/).
+- フェイト/ゼロ (/Fate/Zero/)
+- プリンセス・プリンシパル (/Princess Principal/).
+- 徒然チルドレン (/Tsuredure Children/).
+- かくしごと (/Kakushigoto/).
+- /Vivy -Fluorite Eye's Song-/.
+- シャドーハウス (/Shadows House/).
+- /Arcane/.
+
+* Music
+
+** People
+
+- 梶浦由記 (Kajiura Yuki).
+- Reol.
+
+* Video Channels
+
+** Health and fitness
+
+- /Thomas DeLauer/ provides you with the tools you need to optimize your health, fitness, and mental well being. I love it because he is not prescriptive with the advice he gives. In fact, he encourages his viewers to look into the research themselves and makes it easy to do so by linking his sources in the video description.
+- /Bodyweight Warrior/ by Tom Merrick.
+- /Austin Dunham/. I was there for the calisthenics and saw the hard work he put into his fitness and self improvement journey.
+- /FitnessFAQs/
+
+** Food
+
+- /Joshua Weissman/ is a confident chef with technique and humor. I fondly remember the cabinet era when cooking was the main focus.
+- /Adam Liaw/ brings relaxing home cooked meals.
+- /The Bread Code/
+- /Alex/ cooks. Cooking technique, tools, engineering, and processes to achieve the ultimate flavor and more.
+
+** Art
+
+- /Proko/.
+- /Marco Bucci/
+- /Alphonso Dunn/
+
+** Tech, science, engineering, logistics, economics
+
+- /Veritasium/
+- /Practical Engineering/
+- /Wendover Productions/
+- /Economics Explained/
+- /Y Combinator/.
+- /ThePrimeagen/. Opinionated programming related react content with a bit of playful and questionable humor.
+
+** Learning
+
+- /Justin Sung/
+- /Benjamin Keep/
+
+** Mind
+
+- /Charisma on Command/.
+- /HealthyGamerGG/.
+
+** Podcasts
+
+- /Trash Taste/
+- /WAN Show/
+- /Dropping In Podcast/ hosted by Charlie Houpert. Formerly the /Ben and Charlie Podcast/.
+- /Casters Couch/
+- /Draftsmen Podcast/ hosted by Stan Prokopenko and Marshall Vandruff.
+- /Tom Bilyeu/ hosts the podcast /Impact Theory/ and learns from various guests.
+
+** Urbanism, sustainability, government
+
+- /CityNerd/
+- /Not Just Bikes/
+- /Strong Towns/.
+- Bellevue City Council.
+- /Climate Town/. Funny man exposes policy failures behind the sustainability crisis.
+
+* Games
+
+- Chess.
+- /Pokémon Emerald/.
+- /Super Smash Bros. Melee/ and /Super Smash Bros. Brawl/.
+- /League of Legends/.
+- /osu!/.
+- /Minecraft/. I'm the type of player who enjoys resource abundance in survival mode. I often end up building farms and organizing their products into compact spaces.
+- /Outer Wilds/. Where curiosity is power.
