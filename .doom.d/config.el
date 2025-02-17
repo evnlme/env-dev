@@ -100,3 +100,12 @@
                 :html-background "Transparent"
                 :html-scale 1.0
                 :matchers ("begin" "$1" "$" "$$" "\\(" "\\[")))
+
+(setq-default org-publish-project-alist
+              `(("org"
+                 :base-directory "~/notes/"
+                 :base-extension "org"
+                 :publishing-directory "~/www/"
+                 :publishing-function org-html-publish-to-html
+                 :author "Evan Lee")
+                ("website" :components ("org"))))
