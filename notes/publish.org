@@ -7,6 +7,6 @@ Focus on the Exporting and Publishing section.
 
 https://orgmode.org/manual/index.html
 
-I could use EXPORT_FILE_NAME to customize the url path for each page.
+I could use =EXPORT_FILE_NAME= to customize the url path for each page.
 
 https://orgmode.org/manual/Export-Settings.html

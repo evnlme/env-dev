@@ -1,0 +1,5 @@
+#+title: About
+
+I'm supposed to write stuff here. There really isn't a trend yet, but I bet my writing will include idealized and technical topics. Frequent occupants of my head space include economics, urban planning, software, math, health, philosophy, anime, drawing, and self improvement.
+
+[[https://github.com/evnlme][GitHub]]
