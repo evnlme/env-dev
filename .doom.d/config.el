@@ -101,17 +101,19 @@
                 :html-scale 1.0
                 :matchers ("begin" "$1" "$" "$$" "\\(" "\\[")))
 
-(setq-default org-publish-project-alist
-              `(("org"
-                 :base-directory "~/notes/"
-                 :base-extension "org"
-                 :recursive t
-                 :publishing-directory "~/www/"
-                 :publishing-function org-html-publish-to-html
-                 :auto-sitemap t
-                 :sitemap-filename "index.org"
-                 :sitemap-title "evnl.me"
-                 :html-head ,(f-read "~/.doom.d/head.html")
-                 :author "Evan Lee"
-                 :email "112362737+evnlme@users.noreply.github.com")
-                ("website" :components ("org"))))
+(use-package! f
+  :config
+  (setq-default org-publish-project-alist
+                `(("org"
+                   :base-directory "~/notes/"
+                   :base-extension "org"
+                   :recursive t
+                   :publishing-directory "~/www/"
+                   :publishing-function org-html-publish-to-html
+                   :auto-sitemap t
+                   :sitemap-filename "index.org"
+                   :sitemap-title "evnl.me"
+                   :html-head ,(f-read "~/.doom.d/head.html")
+                   :author "Evan Lee"
+                   :email "112362737+evnlme@users.noreply.github.com")
+                  ("website" :components ("org")))))

@@ -57,14 +57,25 @@ Register public key to remote account.
 
 * Emacs
 
-Build emacs. [[https://savannah.gnu.org/git/?group=emacs]]
+Build emacs. [[[https://savannah.gnu.org/git/?group=emacs][Savannah]]] [[[https://github.com/emacs-mirror/emacs][GitHub]]]
+
+[[https://github.com/emacs-mirror/emacs/blob/master/INSTALL][GNU Emacs Installation Guide]]
 
 #+begin_src bash
-git clone --depth 1 --branch emacs-30 git://git.sv.gnu.org/emacs.git
+mkdir ~/emacs
+cd ~/emacs
+git init
+git remote add sv https://git.savannah.gnu.org/git/emacs.git
+git remote add gh git@github.com:emacs-mirror/emacs.git
+# tagname e.g., emacs-30.1
+git fetch gh refs/tags/{tagname}:refs/tags/{tagname}
+git checkout tags/{tagname}
 ./autogen.sh
 ./configure --with-tree-sitter --with-mailutils
 make -j$(nproc)
 sudo make install
+make clean
+make distclean
 #+end_src
 
 I don't use mail but src_bash{--with-mailutils} silences a warning that isn't relevant to me.
