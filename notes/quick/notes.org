@@ -1,0 +1,72 @@
+
+* (0) My first note!
+:PROPERTIES:
+:DATETIME: [2025-04-18 Fri 20:41]
+:END:
+
+I'm happy that I made a configuration that's good enough for me. To activate, it's simply "SPC n n n". I can track how many of these I make with my custom counter. It also records the datetime, though I don't remember examples where datetime was important to me. I guess it's just a nice to have.
+
+* (1) Emacs Info
+:PROPERTIES:
+:DATETIME: [2025-04-19 Sat 15:29]
+:END:
+
+I wonder how I can copy info links here. "M-x info" or "SPC h i" takes me to the manuals. It would be useful to be able to link to them internally. I'm not too sure how.
+
+I spent some time trying to figure it out but whenever I create a link and try taking it, I keep getting prompted to create a section in the same file. The links I wanted to include are the following:
+
+- [[https://orgmode.org/manual/Template-elements.html]]
+- https://orgmode.org/manual/Template-expansion.html
+- https://orgmode.org/manual/Capture-templates.html
+
+* (2) Apple sauce
+:PROPERTIES:
+:DATETIME: [2025-04-19 Sat 18:38]
+:END:
+
+I have a new tool and it's apple sauce. I was wondering what to do about my intense pangs of hunger which usually result in me consuming a lot of unhealthy foods. I believe it may be associated with a sudden drop in blood glucose. The common way to alleviate the drop is take about 15g of sugar or simple carbohydrates. I think apple sauce fits the bill. I enjoy its slightly acidic taste and it feels satisfying. And the important part. It's shelf stable with no preparation. Each dose is about 100-120g. I believe this new tool will have powerful effects
+
+I do need to note that these drops in glucose are generally harmful to me and my goals. The apple sauce is intended to alleviate that harm.
+
+* (3) Drawing goals
+:PROPERTIES:
+:DATETIME: [2025-04-24 Thu 21:01]
+:END:
+
+I want to nail a good head shape. Something that reads well from any angle. I also want to learn the lengths and thicknesses of the arms and legs. Let's not forget about the torso. Sounds like figure drawing to me.
+
+I also want to applaud myself for using these notes for their intended purpose. I'm reacting to what I drew. Good job me!
+
+* (4) Habits
+:PROPERTIES:
+:DATETIME: [2025-04-24 Thu 21:07]
+:END:
+
+It's more important to get into the habit of consistently doing something at all. There's a limit to forcing myself to do something in a certain way. And that limit is not large. First consistently do something. Second add a small amount of complexity. Small enough that the augmented task still feels easy to do consistently. Easy to do one time isn't enough; it needs to be easy to do over and over.
+
+This is exactly what I'm trying to do with reading, writing, and drawing. Just do it. Don't worry about constraints and other complexities until I'm doing it consistently.
+
+* (5) Minecraft is hard
+:PROPERTIES:
+:DATETIME: [2025-05-18 Sun 20:10]
+:END:
+
+Yeah, that's right. Minecraft is hard. Rather, it doesn't scale. No matter the size of your project, you're limited to manipulating one block at a time. At least that is the case in survival mode. I made a terrible mistake of not scaling the projects I wanted to do in Minecraft to the time I'm willing to commit to it. The projects are too big. Not big absolutely but relatively. I already sunk so much time into them. I think I should finish them. But there's still so much left to do.
+
+Anyways, the real problem is Minecraft is keeping me from doing the other things I want to do. This is bad. I could relegate the game to weekends only, but that means the projects I set out to do will take that much longer. I think that's probably fine. It'll probably be fine. I guess I'm afraid that I won't be able to complete the projects. But the scarier things is not being able to pursue my other priorities if I don't do this. Goodbye Minecraft. See you next week. Hopefully, I won't have simulation sickness when I play you.
+
+* (6) Breaking a fast
+:PROPERTIES:
+:DATETIME: [2025-05-20 Tue 07:01]
+:END:
+
+I need to be careful when reintroducing food into my system after 2 to 3 hours of not eating. If I suddenly eat some fast digesting food like apple sauce, I end up digesting it too quickly which causes some discomfort. I believe I can avoid the discomfort if I eat something high in protein and fat like an egg. Dairy would have been a great choice but the dairy choices of the A2 variety are limited. Ideally, I would want some A2 yogurt but that would require me to make the yogurt from A2 milk since A2 yogurt isn't readily available at the markets. I can also avoid the discomfort by not eating anything. The key to all of this is to be aware of how long since I last ate.
+
+* (7) Food and xenobiotics metabolism
+:PROPERTIES:
+:DATETIME: [2025-05-28 Wed 07:33]
+:END:
+
+I learned about xenobiotics metabolism recently. It is responsible for detoxifying toxins and other substances like drugs. I feel like my understanding of how food affects the body has improved through incorporating genetics, epigenetics, microbiome, and now xenobiotic metabolism. The theory I have is that compromised xenobiotic metabolism can lead to chronic low-grade inflammation. There is a family of enzymes cytochrome P450 (CYP450) which is responsible for the bulk of xenobiotic metabolism. Even within CYP450, there are enzymes such as CYP1A1 which increase toxicity, so it's important to distinguish between good and bad CYP. Grapefruit and black pepper are known to decrease good CYP. Cruciferous vegetables and garlic increase good CYP and decrease bad CYP. Mycotoxins and other contaminants decrease good CYP and increase bad CYP. Fine tuning CYP and levels and AhR diets both aim to support natural detoxification and immune functions.
+
+Mycotoxin contamination in foods is most often found in grains. Here, grains are inclusive of grains, lentils, nuts, and seeds. It makes me wonder whether I can have my peanuts, corn, and rice as long as they're essentially free of mycotoxins. Though, it isn't clear how I would practically measure mycotoxin content.

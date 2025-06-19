@@ -92,6 +92,9 @@ sudo apt upgrade
 
 * Doom
 
+https://github.com/doomemacs/doomemacs
+https://docs.doomemacs.org/latest/
+
 #+begin_src bash
 cd ~/.emacs.d
 git init
@@ -108,6 +111,14 @@ doom upgrade
 
 =M-x nerd-icons-install-fonts=
 
+* Rust
+
+https://www.rust-lang.org/tools/install
+
+#+begin_src bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+#+end_src
+
 * Local config
 
 #+begin_src bash
@@ -123,4 +134,10 @@ git commit -m "Initial defaults"
 git checkout main
 # Review new defaults 'git diff --color init'
 doom sync
+#+end_src
+
+* Short cuts
+
+#+begin_src
+org-insert-structure-template (C-c C-,)
 #+end_src

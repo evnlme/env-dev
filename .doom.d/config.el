@@ -117,3 +117,20 @@
                    :author "Evan Lee"
                    :email "112362737+evnlme@users.noreply.github.com")
                   ("website" :components ("org")))))
+
+(use-package! org
+  :config
+  (setq org-default-notes-file "~/notes/quick/notes.org")
+  (setq org-capture-templates
+        '(("n" "Note" entry (file "") (file "~/.doom.d/template/notes-template.org")
+           :empty-lines 1
+           :after-finalize org-note-counter-increment)))
+
+  (defvar org-note-counter 0 "Counter for note capture template.")
+  (defun org-note-counter-increment ()
+    "Increment and save the note counter."
+    (setq org-note-counter (1+ org-note-counter))
+    (customize-save-variable 'org-note-counter org-note-counter))
+  (defun org-note-counter-string ()
+    "Get the note counter as a string."
+    (number-to-string org-note-counter)))

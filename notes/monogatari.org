@@ -2,7 +2,7 @@
 
 * Intro
 
-I want to critically read the Monogatari Series. My raison d'être for learning Japanese. I never expected that I would be using critical reading skills voluntarily yet here I am. Leisurely deliberating the meanings of things is actually quite meditative.
+I want to critically read the Monogatari Series by Nisioisin. My raison d'être for learning Japanese. I never expected that I would be using critical reading skills voluntarily yet here I am. Leisurely deliberating the meanings of things is actually quite meditative.
 
 ** Scope
 
@@ -29,6 +29,35 @@ The narrator mentions that he was a loner up until the end of the prior school y
 When the narrator encounters Senjougahara, he simultaneously feels the weightlessness in her body and finds salience in her existence. Weight, under the force of gravity, tethers people to the world. A lack of it could explain Senjougahara's detached existence. Contradicting her weightlessness, she falls into the narrator and becomes a more significant existence to him.
 
 *** 002
+
+The narrator asks Hanekawa about Senjougahara. Rather than bringing up Senjougahara's anomaly, he decides to ask about her first. This suggests that he is uncertain whether to confront the anomaly. After all, he barely knows Senjougahara. Why should he help someone whom he will forget in just a few years?
+
+The narrator starts the conversation with Senjougahara's names. I think it's an odd place to start when talking about another person but it seems to work. On the subject of names, Nisioisin reveals the narrator's name, Araragi.
+
+#+begin_quote
+「お前は何でも知ってるな……」
+Araragi: "You know everything, don't you?"
+
+「何でもは知らないわよ。知ってることだけ」
+Hanekawa: "Not everything. I just know what I know."
+#+end_quote
+
+This exchange between Araragi and Hanekawa will be used multiple times throughout the series. Rather than what is said, I am more interested in how it is said.
+
+#+begin_quote
+羽川は納得しかねている風だったが、
+While Hanekawa didn’t seem fully satisfied with my explanation,
+しかし特に追及してくるでもなく
+instead of pressing me any further
+#+end_quote
+
+I am not satisfied with this translation. Something doesn't line up. Hanekawa is responding to a compliment, not an explanation. My interpretation is Hanekawa could not fully understand what Araragi means when he says that compliment. Araragi expects additional followup but there is none. Hanekawa seems preoccupied with Araragi's rare interest in another person.
+
+Araragi introduces Hanekawa Tsubasa as the class president. Not just having the role of class president but being the class president through and through. So much so that Araragi designates Hanekawa as a different species from himself. Her existence is almost fiction itself.
+
+Once again, Araragi brings up academic performance. More specifically, Hanekawa's nearly flawless academic performance. What about academic performance is important to him?
+
+I can fix him.
 
 *** 003
 

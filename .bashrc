@@ -127,3 +127,4 @@ if ! pgrep -u "$USER" ssh-agent > /dev/null; then
 elif [ -f $HOME/.ssh/agentenv ]; then
     . $HOME/.ssh/agentenv
 fi
+. "$HOME/.cargo/env"
