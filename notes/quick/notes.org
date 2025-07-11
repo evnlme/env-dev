@@ -70,3 +70,28 @@ I need to be careful when reintroducing food into my system after 2 to 3 hours o
 I learned about xenobiotics metabolism recently. It is responsible for detoxifying toxins and other substances like drugs. I feel like my understanding of how food affects the body has improved through incorporating genetics, epigenetics, microbiome, and now xenobiotic metabolism. The theory I have is that compromised xenobiotic metabolism can lead to chronic low-grade inflammation. There is a family of enzymes cytochrome P450 (CYP450) which is responsible for the bulk of xenobiotic metabolism. Even within CYP450, there are enzymes such as CYP1A1 which increase toxicity, so it's important to distinguish between good and bad CYP. Grapefruit and black pepper are known to decrease good CYP. Cruciferous vegetables and garlic increase good CYP and decrease bad CYP. Mycotoxins and other contaminants decrease good CYP and increase bad CYP. Fine tuning CYP and levels and AhR diets both aim to support natural detoxification and immune functions.
 
 Mycotoxin contamination in foods is most often found in grains. Here, grains are inclusive of grains, lentils, nuts, and seeds. It makes me wonder whether I can have my peanuts, corn, and rice as long as they're essentially free of mycotoxins. Though, it isn't clear how I would practically measure mycotoxin content.
+
+* (8) Writing on the wall
+:PROPERTIES:
+:DATETIME: [2025-06-20 Fri 09:37]
+:END:
+
+I have been thinking of doing more marketing for my work and myself. Based on what I have learned from ChatGPT, marketing should actually be around 50% of the work. That's a lot more than I expected. I even unconciously refuse to believe that that amount of marketing is correct but logically it makes sense. I would like to shift to towards a marketing mindset. To do that, I have identified a couple of things I could market. First, my random excursions with ChatGPT. I could summarize my findings and post it to a wide variety of places. This one is simple since the core of the activity is finding and exploring. Second, my media consumption. For non-fiction, I can summarize like the first. For fiction, summaries will not suffice. I will need to reflect, interpret, and stand by my own opinions. Third, my city council comments. And fourth, my projects. There are a lot of existing opportunities to market. All I need to do is spend the extra time to market them.
+
+* (9) Distractions
+:PROPERTIES:
+:DATETIME: [2025-07-06 Sun 18:21]
+:END:
+
+I need to refocus. I have succumbed to distractions without even realizing it. The distractions aren't problems themselves. Setting time aside to be distracted is fine; distractions are an eseential part of life. What is unacceptable is the lack of intention. I should be thinking about the best times and places to be distracted.
+
+I have decided to relegate videos to an inquiry only form of consumption. Passively watching is an ineffective use of my time. I will also redouble my efforts to limit media feeds to once a week. Not one day but exactly once a week. Allowing myself to check multiple times in a single day is a major distraction.
+
+* (10) To draw well, think in 3d
+:PROPERTIES:
+:DATETIME: [2025-07-11 Fri 06:13]
+:END:
+
+I have come to realize that drawing requires thinking in 3d. I guess that's where the advocates of life drawing come from. The artist is drawing in 3 dimensions. The first 2 dimensions are the drawing surface. The third dimension is an imaginary depth. A single stroke of the pen will move through all 3 dimensions and the artist is aware of that. Awareness of the hidden third dimension of depth allows the artist to modulate how their pen moves in the other 2 dimensions.
+
+I wonder if this principle extends to animation as well.
