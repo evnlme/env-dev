@@ -12,6 +12,12 @@ An idea dump with minimal or no explanation. Unsubstantiated drivel.
 - Ideally, the money supply should match the value of the supply of our accumulated assets to keep prices relatively stable. Expanding the money supply too quickly (usually money printing) leads to inflation. That money simultaneously funds government programs and devalues the purchasing power of existing money. The inflation associated with money printing could be seen as a tax.
 - The Achilles heel of cryptocurrencies is their costly energy consumption. If the average household paid their energy bills with crypto, a significant part of their bill would be in the cost of the transaction itself. Crypto is not appropriate for everyday transactions. I feel confident that crypto has a place in high-value transactions and is here to stay.
 
+* Urban Planning
+
+- It might be interesting to consider the parallels between urban planning and chip design.
+- I want to make it easier for local farming and farmers to access urban markets and amenities by building rail lines for passengers and produce.
+- Cities should be built pedestrian first.
+
 * Health And Physiology
 
 - Don't hesitate to administer local antibiotics. Systemic antibiotics are the ones to worry about.
@@ -25,3 +31,4 @@ An idea dump with minimal or no explanation. Unsubstantiated drivel.
 - Names obscure. Names form a facade which hide truth and understanding.
 - A home is a metaphorical place where you can build things that are important to you. It's not simply a place; it's a process that puts you at the center.
 - Creating beauty is more beautiful than simply having it.
+- I think passing down an evolving book of values through a lineage might be a good idea. It would help each child figure out what it means to be a member of their family or community.
