@@ -38,6 +38,7 @@ An idea dump with minimal or no explanation. Unsubstantiated drivel.
 - What happens when we receive contradicting information? If the senses are contradicting, then we might feel sick. If people in a group are contradicting, then a corresponding "sickness" may cause conflict and isolation. Our biology significantly biases how we process contradicting information. It takes considerable skill and effort to process contradicting information in a context effective manner.
 - The next task should be split until there is high confidence that it can be completed in the next available time. If your next available time is 30 minutes, figure what you can complete within 30 minutes. The key is confidence. Confidence leads to action; action leads to results; and results lead to learnings. Those learnings will change your feelings about the task the next time you encounter it. To maintain confidence, try to complete the task within the alloted time about 80% of the time.
 - Human thinking cannot be modelled with logic alone. Emotion is essential. Emotional logic is sufficient for modelling human behavior.
+- If frameworks facilitate freedom, then strong frameworks reveal tradeoffs while weak frameworks prescribe choices.
 
 * Art
 
