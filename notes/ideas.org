@@ -43,3 +43,4 @@ An idea dump with minimal or no explanation. Unsubstantiated drivel.
 * Art
 
 - Gesture is a flow that connects shapes. The dual of gesture is shape; the dual of shape is gesture.
+- It's easier to add structure to shape than shape to structure.
