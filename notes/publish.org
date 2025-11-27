@@ -14,8 +14,16 @@ https://orgmode.org/manual/Export-Settings.html
 
 * Publish Command
 
+Publish:
+
 #+begin_src
 M-x org-publish-all (SPC m P a)
+#+end_src
+
+Force publish:
+
+#+begin_src
+M-: (org-publish-all t)
 #+end_src
 
 * Start HTTP Server
@@ -23,3 +31,7 @@ M-x org-publish-all (SPC m P a)
 #+begin_src
 python3 -m http.server --directory ~/www 8000
 #+end_src
+
+* Ideas
+
+I think publishing would be more convenient if every page was html first.

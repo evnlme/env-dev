@@ -1,0 +1,6 @@
+* (%(org-note-counter-string)) %^{HEADING}
+:PROPERTIES:
+:DATETIME: %U
+:END:
+
+%?

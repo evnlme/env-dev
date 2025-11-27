@@ -14,6 +14,9 @@
 !.doom.d/config.el
 !.doom.d/init.el
 !.doom.d/packages.el
+!.doom.d/head.html
+!.doom.d/template/
+!.doom.d/template/notes-template.org
 
 # Notes
 !notes/
