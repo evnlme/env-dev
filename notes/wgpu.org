@@ -1,0 +1,73 @@
+#+title: wgpu
+
+Some notes for [[https://wgpu.rs][wgpu]].
+
+I plan to use wgpu as my graphics framework. I mainly need it for shaders and performance. I will use it with wasm so I can do web rendering. The goal is to complete my 3d color selector project.
+
+* Example Project
+
+Find an [[https://github.com/gfx-rs/wgpu/tree/trunk/examples][example]] project that already uses wgpu, wasm, and shaders.
+
+#+begin_src shell
+cargo update
+cargo xtask run-wasm
+#+end_src
+
+#+begin_comment
+For some reason, only the triangle example works. This isn't really an issue though.
+
+Reminder: "C-c C-," for blocks.
+#+end_comment
+
+* Key Components
+
+** Server
+
+Light weight server to serve the html and javascript.
+
+** Cargo
+
+The workspace root in =./Cargo.toml= defines members. One of the members is =xtask=. The package =wgpu-xtask= is aliased to =xtask= in =./.cargo/config.toml=.
+
+** xtask
+
+The main function parses the arguments to figure out the subcommand. One of the subcommands is =run-wasm=. =xshell= is used for executing a series of commands: build (webgpu, webgl), copy static files, and server startup. The build target is [[https://doc.rust-lang.org/nightly/rustc/platform-support/wasm32-unknown-unknown.html][wasm32-unknown-unknown]]; this is followed by [[https://wasm-bindgen.github.io/wasm-bindgen/][wasm-bindgen]].
+
+#+begin_src shell
+cargo build --target wasm32-unknown-unknown -p wgpu-examples --no-default-features --features webgpu {release_flag...}
+wasm-bindgen target/wasm32-unknown-unknown/{output_dir}/wgpu-examples.wasm --target web --no-typescript --out-dir target/generated --out-name webgpu
+#+end_src
+
+#+begin_src shell
+cargo build --target wasm32-unknown-unknown -p wgpu-examples --no-default-features --features webgl {release_flag...}
+wasm-bindgen target/wasm32-unknown-unknown/{output_dir}/wgpu-examples.wasm --target web --no-typescript --out-dir target/generated --out-name webgl2
+#+end_src
+
+#+begin_src shell
+simple-http-server target/generated -c wasm,html,js -i --coep --coop --ip 127.0.0.1
+#+end_src
+
+Identify key components.
+
+How does wasm interface with javascript?
+
+Create new repo.
+
+
+Features
+- Event loop
+- Colorspace conversion functions
+  - XYZ, oklch, rgb, rgb linear
+- Light and mix modifiers. Whitepoint.
+- Coordinate system
+- Basic mesh rendering
+- Colorspace mesh generation
+- Shader to render the mesh
+- Mesh warping
+- Wireframe rendering
+- Rotation
+- Panning
+- Zooming
+- Resizing
+- Projection mapping
+- Pointer input

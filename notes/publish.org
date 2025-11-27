@@ -1,6 +1,7 @@
 #+title: Publish
 
 https://orgmode.org/manual/Publishing-options.html
+
 https://orgmode.org/manual/Complex-example.html
 
 Focus on the Exporting and Publishing section.
@@ -10,3 +11,15 @@ https://orgmode.org/manual/index.html
 I could use =EXPORT_FILE_NAME= to customize the url path for each page.
 
 https://orgmode.org/manual/Export-Settings.html
+
+* Publish Command
+
+#+begin_src
+M-x org-publish-all (SPC m P a)
+#+end_src
+
+* Start HTTP Server
+
+#+begin_src
+python3 -m http.server --directory ~/www 8000
+#+end_src

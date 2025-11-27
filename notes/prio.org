@@ -1,0 +1,85 @@
+#+title: Prio
+
+Electives:
+- Code
+  - In the this context, math is purely supplementary, a means to an end.
+  - Tasks
+    - 3d color selector
+      - (30 min) Explore wasm-bindgen.
+    - Physical color model
+    - Palette planner. Light (y-axis). Material (x-axis).
+    - Value practice tool, requires painting.
+    - Home server
+    - Value db.
+    - Cellular automata
+    - LLM setup?
+    - Cross-platform rust-python interop
+- Book
+  - Tasks
+    - Dictator's Handbook
+    - Sociopragmatics
+- Japanese
+  - Tasks
+    - Shadow
+    - Nisio Isin
+- Draw
+  - Exercises
+    - Line weight
+    - Elipses
+    - Arrows (waves, twists, curls) (perspective, contours)
+      - Hair
+    - Hats, caps, and duck beaks
+    - Checkerboards
+  - Projects
+    - Figure drawing
+    - Character fanart
+      - Yotsugi (Monogatari)
+      - Mizuki (AI Somnium)
+
+Drawing
+- Concerns
+  - How the head and jaw overlaps with the neck to connect to the torso.
+  - How the breasts attach to and hang from the torso.
+  - Proportions and perspective of the head and jaw and breasts.
+  - I think it's interesting to think of figure drawing as a composition of boxes. Consider the proportions and perspectives of the boxes. How the boxes overlap and connect. The lighting of the boxes. Intentional curves and distortions.
+  - Prerequisite is figure drawing.
+    - Anatomy studies.
+    - How clothes wrap and drape from the body.
+- Stages
+  - Composition exploration (e.g., thumbnailing).
+  - Rough.
+  - Shape refinement.
+  - Value and color.
+  - Rendering (e.g., details, line, edge, etc.).
+- For each stage
+  - Time limited.
+- Before each stage except exploration
+  - Drawing study.
+- After the last stage
+  - Judge each stage in relation to the whole.
+  - Identify the weakest stage.
+    - Bonus improvement stage.
+- Pacing
+  - Try one stage per day.
+- Comments
+  - The difficulty of each stage depends on the project. Composition has the greatest variance in difficulty.
+  - I should focus on building from reference. It's difficult to apply many transformations simultaneously so start from one, then a few, and build build build. Eventually, acquiring and combining transformations will be a simple thing.
+  - The goal is to create a drawing where there are aspects that are more appealing to me than the corresponding aspects in the reference.
+- Transformation examples
+  - Camera (perspective)
+  - Proportions
+  - Pose
+  - Gesture
+  - Shapes
+  - Lighting
+  - Clothes
+  - Hair
+  - Expression
+
+Tasks
+- Operate
+- Create
+- Consume
+  - To operate
+  - To create
+  - For leisure
