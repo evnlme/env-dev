@@ -34,6 +34,7 @@ sudo apt install -y \
   pandoc \
   pipx \
   pkg-config \
+  ripgrep \
   texinfo \
   texlive \
   texlive-latex-extra \

@@ -47,6 +47,35 @@ wasm-bindgen target/wasm32-unknown-unknown/{output_dir}/wgpu-examples.wasm --tar
 simple-http-server target/generated -c wasm,html,js -i --coep --coop --ip 127.0.0.1
 #+end_src
 
+** wasm-bindgen
+
+[[https://github.com/wasm-bindgen/wasm-bindgen][github:wasm-bindgen]]
+
+Note that =module.default()= is called with no arguments from =target/generated/index.html=. Observe =export default __wbg_init;= from =target/generated/webgpu.js=. The default module is =webgpu_bg.wasm=. The js file is created by =wasm-bindgen= when =--target web= is set.
+
+Since I want to prioritize Rust development and I don't have specific JS dependencies, I will start with =--target web= and reserve the option to migrate to =--target bundler= in the future.
+
+The entry point should be marked by [[https://wasm-bindgen.github.io/wasm-bindgen/reference/attributes/on-rust-exports/start.html][=#[wasm_bindgen(start)]=]]. The examples in wgpu do not use this attribute. They are built from a binary instead of a library. The main function of the binary implicitly has the equivalent of =#[wasm_bindgen(start)]= which results in a behavior where the main function is called when the wasm module initializes.
+
+*** wasm-bingen binaries
+
+#+begin_src
+cargo install wasm-bindgen-cli
+cargo install wasm-pack
+#+end_src
+
+To update rust:
+
+#+begin_src
+rustup update
+#+end_src
+
+*** web-sys
+
+Web API Rust bindings.
+
+** Other
+
 Identify key components.
 
 How does wasm interface with javascript?

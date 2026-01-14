@@ -5,10 +5,10 @@ Electives:
   - In the this context, math is purely supplementary, a means to an end.
   - Tasks
     - 3d color selector
-      - (30 min) Explore wasm-bindgen.
     - Physical color model
     - Palette planner. Light (y-axis). Material (x-axis).
-    - Value practice tool, requires painting.
+    - Value (drawing) practice tool, requires painting.
+    - Projection practice tool.
     - Home server
     - Value db.
     - Cellular automata
@@ -16,7 +16,6 @@ Electives:
     - Cross-platform rust-python interop
 - Book
   - Tasks
-    - Dictator's Handbook
     - Sociopragmatics
 - Japanese
   - Tasks
@@ -26,10 +25,11 @@ Electives:
   - Exercises
     - Line weight
     - Elipses
+      - Packed cylinders in perspective
     - Arrows (waves, twists, curls) (perspective, contours)
       - Hair
     - Hats, caps, and duck beaks
-    - Checkerboards
+    - Checkerboards 4x4
   - Projects
     - Figure drawing
     - Character fanart
@@ -83,3 +83,24 @@ Tasks
   - To operate
   - To create
   - For leisure
+
+Speaking
+- Stages
+  - Cold take.
+  - Does it make sense?
+  - Supplementary research.
+  - Take 2.
+  - Does it look good?
+  - Task 3.
+  - Does it sound good?
+  - Take 4.
+  - Does it feel good?
+  - Final take.
+  - Final impressions.
+- Takes
+  - Should be 1 minute.
+- Topics
+  - Spontaneously decide on a topic and run with it.
+  - The topic doesn't have to be good but it should be focused.
+- Research
+  - Find 1 or 2 facts or perspectives. Or make them up.

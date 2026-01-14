@@ -118,3 +118,19 @@ Linen is great but it wrinkles a lot in the dryer. Just noting that I should pre
 I'm bothered that I'm satisfied with just imagining my ideas most of the time. Imagination alone won't change reality. I need to resolve myself to take my ideas one step further into the realm of execution. To do that, I have formulated a strategy. First, I need to make time for idea execution. I'm not sure about the exact duration, but let's start with 30 minutes. During that time, I need to make the most of an idea.  Execution can be in any medium; I'm not limited to writing but I expect it to be most common. Most ideas will fail the execution process, but there may be some promising ones which I should make additional time for. Second, ideas are fleeting and I don't want to rely too much on external tools. In order to remember ideas without being distracted by them, I should recite my priorities and ideas whenever I'm distracted. The number of ideas I should bother to remember is limited to 1 because I'm mostly limited by the time I have for execution.
 
 I think 30 minutes in the morning before work would be the best time. On the weekends, I could make time to pursue the promising ideas.
+
+* (14) Surplus
+:PROPERTIES:
+:DATETIME: [2025-11-27 Thu 21:00]
+:END:
+
+What surplus do I want to create? Digital assets and experiences. To be honest, I don't think I have created enough to narrow down further. Though, one possibility could be graph visualization and processing. Aside from those general categories, I do want to define and share my values through writing, video, or some other form.
+
+Why not physical goods? I would like to avoid the physical realities of collecting trinkets. When it comes to physical goods that are primarily functional, I do see room for improvement but they are at the scale of terraforming the physical world around me.
+
+* (15) Communication Mediums
+:PROPERTIES:
+:DATETIME: [2026-01-02 Fri 21:26]
+:END:
+
+I just want to remind myself of the communication mediums I want to get really good at: drawing, writing, and speaking on video. First as tools for me to reason about and understand reality. Second for others to observe my understanding. Practice through execution and evaluation. Question whether I achieved the outcomes I was hoping for. Was I able to obtain the resources that I wanted but could not produce alone?
