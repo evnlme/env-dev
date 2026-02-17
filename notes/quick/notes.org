@@ -134,3 +134,19 @@ Why not physical goods? I would like to avoid the physical realities of collecti
 :END:
 
 I just want to remind myself of the communication mediums I want to get really good at: drawing, writing, and speaking on video. First as tools for me to reason about and understand reality. Second for others to observe my understanding. Practice through execution and evaluation. Question whether I achieved the outcomes I was hoping for. Was I able to obtain the resources that I wanted but could not produce alone?
+
+* (16) Help protocol
+:PROPERTIES:
+:DATETIME: [2026-01-21 Wed 21:06]
+:END:
+
+I rarely ask for help and I think that's a problem. There are two issues: (1) the time drain from having to spend more time than I should reinventing the wheel is the biggest problem and (2) having no one I can trust to delegate work to. It's time to set some rules.
+
+(1) When I ask for help, I should also get help to evaluate whether I am communicating my needs effectively. (2) If trust is low, I should race my helper so I have more context to evaluate their support. (3) If trust is high, I should work on something else and leave the work to my helper. (4) Trust with a helper is built by observing that they reliably out perform me in a task.
+
+* (17) Memory frameworks
+:PROPERTIES:
+:DATETIME: [2026-01-26 Mon 21:13]
+:END:
+
+I just realized if I am going to use frameworks for production, I should probably use the same frameworks for consumption. That way the encoding and decoding are symmetric. At the point of consumption, I should have clear awareness of the frameworks I'm using to synthesize and store the information.

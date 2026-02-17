@@ -1,0 +1,29 @@
+#+title: Drawing
+
+- (M) Measurement
+  - Proportion and perspective
+  - Informs all
+- (SF) Shape flow
+  - Shape design
+    - Constructed from (L)
+  - Gesture as construction
+  - Informs (PA)
+- (PA) Primitive Arrangement
+  - Depth and overlap
+  - Informs (SF)
+- (L) Line
+  - Line weight
+- (V) Value
+- (E) Edge
+
+M --> SF <--> PA.
+
+Mark measurements.
+Construct a shape envelope.
+- Try [[https://en.wikipedia.org/wiki/Ramer%E2%80%93Douglas%E2%80%93Peucker_algorithm][Ramer-Douglas-Peucker algorithm]].
+- See polygonal approximation problem.
+- Don't worry about the end points of each line. Focus on the angles.
+Mark measurements.
+Fit primitives into the envelope.
+Mark measurements.
+Create interior shapes using the primitives.

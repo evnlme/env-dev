@@ -14,6 +14,8 @@ Electives:
     - Cellular automata
     - LLM setup?
     - Cross-platform rust-python interop
+    - Stateful keyboard shortcuts to navigate tool selection in Krita.
+    - Algorithm visualizations using computer graphics techniques.
 - Book
   - Tasks
     - Sociopragmatics

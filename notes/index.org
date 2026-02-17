@@ -4,6 +4,7 @@
 - [[file:dockercopy.org][A mistake I made copying files in Dockerfile]]
 - [[file:about.org][About]]
 - [[file:comment.org][Comment]]
+- [[file:drawing.org][Drawing]]
 - [[file:tax.org][Fair Taxes]]
 - [[file:hunger.org][Hunger: The Value of Food]]
 - [[file:ideas.org][Ideas]]
@@ -14,5 +15,9 @@
 - [[file:monogatari.org][Reflections on the Monogatari Series]]
 - [[file:utopia.org][Utopia]]
 - [[file:wgpu.org][wgpu]]
+- governance_systems
+  - [[file:governance_systems/index.org][Governance Systems]]
+- practice
+  - [[file:practice/speaking.org][Speaking]]
 - quick
   - [[file:quick/notes.org][notes]]
