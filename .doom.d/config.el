@@ -103,6 +103,7 @@
 
 (use-package! f
   :config
+  (setq-default org-export-with-sub-superscripts nil)
   (setq-default org-publish-project-alist
                 `(("org"
                    :base-directory "~/notes/"
